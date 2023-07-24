@@ -1,16 +1,20 @@
-### Hi there 👋
 <img src="https://github.com/Rafycruz23/rafycruz23/assets/103969478/7ab4e623-8046-476d-b770-3c84b76002a1" alt="My Banner">
-<!--
-**Rafycruz23/rafycruz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">
+I'm a Front-End Web Developer 💻 and aspiring Cyber Security professional!
+</h2> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- Comptia SecurityPlus Certification
+- React projects to keep sharpening skills
+- My CSS skills
+
+## 🌱 I'm currently learning
+
+- Cybersecurity & PennTesting for CompTia Certs
+- Networking
+- Pyhton
+- Wireshark 
