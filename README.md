@@ -4,17 +4,20 @@
 I'm a Front-End Web Developer 💻 and aspiring Cyber Security professional!
 </h2> 
 
-## 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-## 🔭 I'm currently working on
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<br>
+ 🔭 I'm currently working on
 
 - Comptia SecurityPlus Certification
 - React projects to keep sharpening skills
 - My CSS skills
-
-## 🌱 I'm currently learning
+<br>
+🌱 I'm currently learning
 
 - Cybersecurity & PennTesting for CompTia Certs
 - Networking
 - Pyhton
 - Wireshark 
+<br>
+
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
