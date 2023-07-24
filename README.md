@@ -3,8 +3,7 @@
 <h2 align="center">
 I'm a Front-End Web Developer 💻 and aspiring Cyber Security professional!
 </h2> 
-
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<br>
 <br>
  🔭 I'm currently working on
 
