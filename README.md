@@ -13,7 +13,7 @@ I'm a Front-End Web Developer 💻 and aspiring Cyber Security professional!
 <br>
 🌱 I'm currently learning
 
-- Cybersecurity & PennTesting for CompTia Certs
+- Cybersecurity & PenTesting for CompTia Certs
 - Networking
 - Pyhton
 - Wireshark 
