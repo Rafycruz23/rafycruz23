@@ -8,15 +8,16 @@ I'm a Front-End Web Developer 💻 and aspiring Cyber Security professional!
  🔭 I'm currently working on
 
 - Comptia SecurityPlus Certification
-- React projects to keep sharpening skills
-- My CSS skills
+- SC-300 Certification
+- Masters Degree in Cybersecurity
 <br>
 🌱 I'm currently learning
 
 - Cybersecurity & PenTesting for CompTia Certs
 - Networking
 - Pyhton
-- Wireshark 
+- Wireshark
+- IAM Concepts
 <br>
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
