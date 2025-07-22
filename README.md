@@ -19,7 +19,7 @@ I'm a MA Cybersecurity Graduate 💻 and aspiring IT professional!
 
 - PenTesting for CompTIA Pentest+
 - CourseCareer IT Course
-- 
+  
 <br>
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
