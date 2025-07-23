@@ -8,9 +8,9 @@ I'm a MA Cybersecurity Graduate 💻 and aspiring IT professional!
  🔭 My recent achievements:
 
 - Comptia SecurityPlus Certification
-- Masters Degree in Cybersecurity (IEBS School)
+- Masters Degree in Cybersecurity (IEBS School Online SPA)
 - LaunchCode Web Dev Bootcamp Certificate
-- Philadelphia Community COllege Cybersecurity Bootcamp Cert
+- Philadelphia Community College Cybersecurity Bootcamp Cert
 - Google Cybersecurity
 - ISC2 CC Certification
 
