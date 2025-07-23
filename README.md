@@ -1,4 +1,5 @@
-<img src="https://github.com/Rafycruz23/rafycruz23/assets/103969478/7ab4e623-8046-476d-b770-3c84b76002a1" alt="My Banner">
+<img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/462c2867-2bfe-4eb9-99c1-165901a571be" />
+
 
 <h2 align="center">
 I'm a MA Cybersecurity Graduate 💻 and aspiring IT professional!
